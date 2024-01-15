@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Sokou#7766)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pierre.marquet.50)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sokoupm)
@@ -50,10 +50,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SokouPM&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SokouPM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SokouPM&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
