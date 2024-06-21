@@ -1,6 +1,6 @@
 <p align="center" width="100%">
   <a href="https://www.pierre-marquet.fr/">
-    <img src="https://www.pierre-marquet.fr/sources/files/logo.png" alt="MyWebSite" />
+    <img src="https://www.pierre-marquet.fr/whiteLogo.svg" alt="MyWebSite" height="300" />
   </a>
 </p>
 
