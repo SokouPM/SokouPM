@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="center" width="100%" style="background-color: black;">
   <a href="https://www.pierre-marquet.fr/">
     <img src="https://www.pierre-marquet.fr/_next/static/media/whiteLogo.cdc2df7d.svg" alt="MyWebSite" height="300" />
   </a>
