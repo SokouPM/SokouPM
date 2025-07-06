@@ -1,9 +1,3 @@
-<p align="center" width="100%" style="background-color: black;">
-  <a href="https://www.pierre-marquet.fr/">
-    <img src="https://www.pierre-marquet.fr/_next/static/media/whiteLogo.cdc2df7d.svg" alt="MyWebSite" height="300" />
-  </a>
-</p>
-
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
