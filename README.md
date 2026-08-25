@@ -3,7 +3,7 @@
 **Développeur Full Stack** — conception d'applications web de bout en bout, architecture logicielle et DevOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-marquet-98987b199/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokou34pm@gmail.com)
+[![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@pierre-marquet.fr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pierre-marquet.fr)
 
 # 🚀 Projets phares
