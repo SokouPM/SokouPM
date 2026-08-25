@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-marquet-98987b199/)
 [![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@pierre-marquet.fr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pierre-marquet.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://pierre-marquet.fr)
 
 # 🚀 Projets phares
 
